@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11-classes_and_objects/11-classes_and_objects.iml" filepath="$PROJECT_DIR$/11-classes_and_objects/11-classes_and_objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-classes_and_objects-solution/11-classes_and_objects-solution.iml" filepath="$PROJECT_DIR$/11-classes_and_objects-solution/11-classes_and_objects-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-inheritance/12-inheritance.iml" filepath="$PROJECT_DIR$/12-inheritance/12-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-inheritance-solution/12-inheritance-solution.iml" filepath="$PROJECT_DIR$/12-inheritance-solution/12-inheritance-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_abstract_classes/13_abstract_classes.iml" filepath="$PROJECT_DIR$/13_abstract_classes/13_abstract_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_abstract_classes-solution/13_abstract_classes-solution.iml" filepath="$PROJECT_DIR$/13_abstract_classes-solution/13_abstract_classes-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-interfaces/14-interfaces.iml" filepath="$PROJECT_DIR$/14-interfaces/14-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-interfaces-solution/14-interfaces-solution.iml" filepath="$PROJECT_DIR$/14-interfaces-solution/14-interfaces-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-null-safety/15-null-safety.iml" filepath="$PROJECT_DIR$/15-null-safety/15-null-safety.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-null-safety-solution/15-null-safety-solution.iml" filepath="$PROJECT_DIR$/15-null-safety-solution/15-null-safety-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-exceptions/16-exceptions.iml" filepath="$PROJECT_DIR$/16-exceptions/16-exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-exceptions-solution/16-exceptions-solution.iml" filepath="$PROJECT_DIR$/16-exceptions-solution/16-exceptions-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-if-else/3-if-else.iml" filepath="$PROJECT_DIR$/3-if-else/3-if-else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-if-else-solution/3-if-else-solution.iml" filepath="$PROJECT_DIR$/3-if-else-solution/3-if-else-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-functions/5-functions.iml" filepath="$PROJECT_DIR$/5-functions/5-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-functions-solution/5-functions-solution.iml" filepath="$PROJECT_DIR$/5-functions-solution/5-functions-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-data_classes/7-data_classes.iml" filepath="$PROJECT_DIR$/7-data_classes/7-data_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-data_classes-solution/7-data_classes-solution.iml" filepath="$PROJECT_DIR$/7-data_classes-solution/7-data_classes-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-collections_and_loops/8-collections_and_loops.iml" filepath="$PROJECT_DIR$/8-collections_and_loops/8-collections_and_loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-collections_and_loops-solution/8-collections_and_loops-solution.iml" filepath="$PROJECT_DIR$/8-collections_and_loops-solution/8-collections_and_loops-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-lambdas/9-lambdas.iml" filepath="$PROJECT_DIR$/9-lambdas/9-lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-lambdas-solution/9-lambdas-solution.iml" filepath="$PROJECT_DIR$/9-lambdas-solution/9-lambdas-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks.iml" filepath="$PROJECT_DIR$/Tasks.iml" />
+    </modules>
+  </component>
+</project>
